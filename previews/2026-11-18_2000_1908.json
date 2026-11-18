@@ -1,0 +1,161 @@
+{
+  "title": "देव दीपावली पर त्रिपुरासुर वध की पौराणिक कथा",
+  "hook": "शिवजी ने एक ही बाण से कैसे किए तीन नगर नेस्तनाबूद?",
+  "source_title": "शिव महापुराण",
+  "source_sub": "रुद्रसंहिता",
+  "characters": {
+    "Shiva": "Lord Shiva, calm yet powerful expression, fair skin, ash-smeared body, wearing tiger skin, crescent moon on matted hair, gold ornaments, holding a divine bow.",
+    "Tripurasura": "Three demon brothers, dark skin, armored, fierce expressions, standing in front of their iron, silver, and gold cities."
+  },
+  "scenes": [
+    {
+      "type": "hook",
+      "narration": "शिवजी ने एक ही बाण से कैसे किए तीन नगर नेस्तनाबूद?",
+      "highlight": [
+        "एक ही बाण",
+        "तीन नगर"
+      ],
+      "label": null,
+      "image_prompt": "Cinematic close-up of Lord Shiva with closed eyes, glowing aura, intense atmosphere, dark background, 8k resolution."
+    },
+    {
+      "type": "source",
+      "narration": "शिव महापुराण की रुद्रसंहिता में इस अद्भुत घटना का वर्णन मिलता है।",
+      "highlight": [
+        "शिव महापुराण",
+        "रुद्रसंहिता"
+      ],
+      "label": null,
+      "image_prompt": "Ancient palm leaf manuscript opening with golden light emanating from it, spiritual atmosphere."
+    },
+    {
+      "type": "story",
+      "narration": "तारकासुर के तीन पुत्रों - विद्युन्माली, कमलाक्ष और तारकाक्ष ने कठिन तपस्या से ब्रह्मा जी को प्रसन्न किया।",
+      "highlight": [
+        "तीन पुत्रों",
+        "ब्रह्मा जी"
+      ],
+      "label": "तारकासुर के पुत्र",
+      "image_prompt": "Three demons praying in a forest clearing, glowing divine light descending from the sky."
+    },
+    {
+      "type": "story",
+      "narration": "उन्होंने वरदान मांगा कि उनके तीन नगर, जो सोने, चांदी और लोहे के थे, कभी नष्ट न हों।",
+      "highlight": [
+        "सोने",
+        "चांदी",
+        "लोहे"
+      ],
+      "label": "त्रिपुर",
+      "image_prompt": "Three magnificent floating cities made of gold, silver, and iron in the clouds."
+    },
+    {
+      "type": "story",
+      "narration": "वरदान मिलते ही वे तीनों अहंकारी हो गए और तीनों लोकों में हाहाकार मचा दिया।",
+      "highlight": [
+        "अहंकारी",
+        "हाहाकार"
+      ],
+      "label": null,
+      "image_prompt": "The three demons standing tall, looking down at earth with arrogance, dark shadows."
+    },
+    {
+      "type": "story",
+      "narration": "सभी देवता भयभीत होकर भगवान शिव की शरण में पहुंचे और सहायता की प्रार्थना की।",
+      "highlight": [
+        "देवता",
+        "भगवान शिव"
+      ],
+      "label": "देवगण",
+      "image_prompt": "Devas with folded hands standing before a majestic Shiva in the Himalayas."
+    },
+    {
+      "type": "story",
+      "narration": "संपूर्ण ब्रह्मांड को बने उस दिव्य रथ पर सवार होकर भगवान शिव ने युद्ध के लिए प्रस्थान किया, जिसके सारथी ब्रह्माजी बने।",
+      "highlight": [
+        "दिव्य रथ",
+        "युद्ध"
+      ],
+      "label": null,
+      "image_prompt": "Lord Shiva riding a cosmic divine chariot with Brahma as charioteer, cosmic energy surrounding him, epic scale."
+    },
+    {
+      "type": "story",
+      "narration": "जब तीनों नगर एक सीध में आए, तब शिवजी ने पाशुपत अस्त्र का संधान किया।",
+      "highlight": [
+        "एक सीध",
+        "पाशुपत अस्त्र"
+      ],
+      "label": null,
+      "image_prompt": "Shiva pulling his bow string, the three cities aligning in a straight line, divine lightning."
+    },
+    {
+      "type": "story",
+      "narration": "एक प्रलयंकारी बाण छूटा और पल भर में तीनों नगर भस्म हो गए।",
+      "highlight": [
+        "प्रलयंकारी बाण",
+        "भस्म"
+      ],
+      "label": null,
+      "image_prompt": "A golden arrow of light piercing through the three cities, massive explosion of light."
+    },
+    {
+      "type": "story",
+      "narration": "इस विजय के बाद देवताओं ने कार्तिक पूर्णिमा पर दीप जलाकर उत्सव मनाया।",
+      "highlight": [
+        "कार्तिक पूर्णिमा",
+        "उत्सव"
+      ],
+      "label": null,
+      "image_prompt": "Heavenly beings lighting thousands of diyas in the sky, serene and celebratory mood."
+    },
+    {
+      "type": "story",
+      "narration": "इसीलिए इसे 'त्रिपुरारी पूर्णिमा' या 'देव दीपावली' के नाम से जाना जाता है।",
+      "highlight": [
+        "त्रिपुरारी पूर्णिमा",
+        "देव दीपावली"
+      ],
+      "label": null,
+      "image_prompt": "Beautiful view of Earth and heavens lit up with millions of lamps on a full moon night."
+    },
+    {
+      "type": "cta",
+      "narration": "भगवान शिव की इस विजय पर कमेंट में 'हर हर महादेव' लिखें और हमें फॉलो करें।",
+      "highlight": [
+        "हर हर महादेव",
+        "फॉलो"
+      ],
+      "label": null,
+      "image_prompt": "A peaceful portrait of Lord Shiva smiling, warm golden lighting, inviting audience."
+    }
+  ],
+  "cta_text": "हर हर महादेव",
+  "caption": "शिवजी ने एक ही बाण से कैसे किए तीन नगर नेस्तनाबूद?\n\nदेव दीपावली कथा | Dev Diwali Story\nत्रिपुरारी पूर्णिमा महत्व | Tripurari Purnima Significance\n\nक्या आप जानते हैं कि देव दीपावली क्यों मनाई जाती है? कमेंट में बताएं!",
+  "hashtags": [
+    "#kathaaalok",
+    "#DevDiwali",
+    "#Mahadev",
+    "#ShivPuran",
+    "#SanatanDharma"
+  ],
+  "idea": {
+    "title": "देव दीपावली पर त्रिपुरासुर वध की पौराणिक कथा",
+    "hook_hi": "शिवजी ने एक ही बाण से कैसे किए तीन नगर नेस्तनाबूद?",
+    "story_summary": "त्रिपुरासुर नामक राक्षसों के तीनों लोक में आतंक को समाप्त करने के लिए भगवान शिव ने एक दिव्य बाण से त्रिपुरासुर का वध किया था। इस विजय की खुशी में देवताओं ने कार्तिक पूर्णिमा पर दीप जलाए, जिसे देव दीपावली कहा जाता है।",
+    "scripture_source": "शिव महापुराण, रुद्रसंहिता",
+    "trend_reason": "upcoming_festival_dev_diwali",
+    "festival_date": "2026-11-24",
+    "score": {
+      "index": 1,
+      "hook": 9,
+      "curiosity": 8,
+      "timing": 9,
+      "shareability": 8,
+      "accuracy": 9,
+      "originality": 7,
+      "overall": 8.3,
+      "reason": "High viral potential for Dev Diwali. The single-arrow destruction of three cities is a visual hook that stops the scroll instantly."
+    }
+  }
+}
